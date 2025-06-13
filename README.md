@@ -36,10 +36,10 @@ Today I Learned
 ## 참고 이미지
 
 ### 자바스크립트 사진 1
-![자바스크립트1](./자바스크립트1)
+![자바스크립트1 (1)](https://github.com/user-attachments/assets/40a2dfbe-4f93-4b0b-8a60-ff35a1fe4e46)
 HTML 로만 구성이 된 최초로 만들어진 웹 페이지
 ### 자바스크립트 사진 2
-![자바스크립트2](./자바스크립트2-1.webp)
+![자바스크립트-2-1 (1)](https://github.com/user-attachments/assets/5dee3e21-ea18-4c82-9fdf-722e83b2707c)
 HTML,CSS 로만 구성이 된 웹 페이지
 
 ---
