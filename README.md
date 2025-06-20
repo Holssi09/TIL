@@ -49,3 +49,5 @@ HTML,CSS 로만 구성이 된 웹 페이지
 ##  참고 사이트
 
 [JavaScript 기초 및 문법 - 코드스테이츠 블로그](https://www.codestates.com/blog/content/javascript-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%AC%B8%EB%B2%95)
+
+머시기머시ㅣ
