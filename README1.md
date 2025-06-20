@@ -45,3 +45,4 @@ JavaScript로 데이터를 시각화할 수 있다는 점에서 흥미롭고
 ##  참고 사이트
 
 https://observablehq.com/@d3/gallery
+[JavaScript 기초 및 문법 - 코드스테이츠 블로그](https://www.codestates.com/blog/content/javascript-%EA%B8%B0%EC%B4%88-%EB%B0%8F-%EB%AC%B8%EB%B2%95)
